@@ -1,8 +1,9 @@
-👋 Hi, I’m @shishgupta. 
-👀 I’m interested in Web Devloping. 
-🌱 I’m currently learning Java Script and Java. 
-💞️ I’m looking to collaborate on ... 
-📫 ashishguptamlnc@mail.com 
+- 👋 Hi, I’m @shishgupta
+- 👀 I’m interested in Web Devloping.
+- 🌱 I’m currently learning Java Script and Java.
+- 💞️ I’m looking to collaborate on ...
+- 📫 ashishguptamlnc@gmail.com
+
 
 
 <!--
